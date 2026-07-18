@@ -15,8 +15,8 @@ print(df)
 
 df = pd.read_csv("practice.csv")
 
-# print(df)
-# print(df.head())
-# print(df.shape) 
-# print(df.columns) 
+print(df)
+print(df.head())
+print(df.shape) 
+print(df.columns) 
 print(df.info())
